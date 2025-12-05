@@ -1,0 +1,29 @@
+body {
+    background: #eef2f3;
+    font-family: Arial;
+    text-align: center;
+}
+.box {
+    background: white;
+    width: 350px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 8px;
+}
+input {
+    width: 90%;
+    padding: 8px;
+    margin: 8px;
+}
+button {
+    background: green;
+    color: white;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+    width: 90%;
+}
+table {
+    width: 100%;
+    text-align: center;
+}
