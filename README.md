@@ -11,21 +11,24 @@ View all employee records stored in the database
 Technologies Used - 
 
 Python (Flask)
-
 MySQL
-
 HTML
-
 CSS
 
 Project Structure - 
 
 project/
+
 ├── app.py
+
 ├── templates/
+
 │   └── index.html
+
 ├── static/
+
 │   └── style.css
+
 └── README.md
 
 How to Run the Project - 
